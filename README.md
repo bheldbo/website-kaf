@@ -22,3 +22,23 @@ Welcome to our Awesome Website Stack built with React and Django! This stack com
 To get started with our Awesome Website Stack, follow these steps:
 
 1. Clone the repository:
+  $git clone <repository-url>
+2. Install dependencies:
+   npm install
+3. Run the development server:
+   npm start
+4. Open your browser and visit `http://localhost:3000` to see the website in action.
+
+## Contributing
+
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Ready to unlock the potential of our Awesome Website Stack? Get started today and build powerful, scalable websites with React and Django. Happy coding!
+
+
